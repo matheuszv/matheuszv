@@ -16,7 +16,7 @@
 
 # Currently focused on:
 <img align="center" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=blue"></img> 
-<img align="center" src="https://img.shields.io/badge/C.sharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=blue"></img>
+<img align="center" src="https://img.shields.io/badge/NODE-FFFFFF?style=for-the-badge&logo=node&logoColor=blue"></img>
 
 
 # Contact me for work or networking at:
